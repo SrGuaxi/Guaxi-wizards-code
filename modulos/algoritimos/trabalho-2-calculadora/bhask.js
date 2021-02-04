@@ -1,7 +1,7 @@
 // vou tentar desenvolver uma forma de desenvolver bhaskhara me inspirei neste código (https://gist.github.com/almirb/4070cb178c5b8b8111d64bfcb44f8fec)
 
 
-const equacao = "–node 2x² + 3x + 5 = 0"
+const equacao = " -2x² + 3x + 5 = 0"
 
 // vou pegar as variaveis da equação
 
